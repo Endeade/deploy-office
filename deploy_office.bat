@@ -1,5 +1,10 @@
 @echo off
-title Office deployment script
+title Office Deployment Script
+echo Office Deployment Script
+echo Version: v1.0.0
+echo Made by: Endeade
+timeout /t 5
+cls
 echo Press Enter if you ran this as Administrator.
 echo If not, right-click this batch and then click "Run as Administrator".
 pause
